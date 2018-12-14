@@ -1,1 +1,1 @@
-# pal
+# pal project
